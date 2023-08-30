@@ -1,5 +1,5 @@
 # Hello There!💫I'm Ravindu!
-🔭 ✨ Welcome to my corner of creativity! As a dedicated content creator, I'm on a mission to weave compelling narratives and bring ideas to life. While I'm busy polishing my skills in the realm of DevOps technologies, I'm also your go-to person for insights into the dynamic landscape of desktop applications. Let's chat about content, code, and everything in between! 📚🛠️ #ContentCrafting #DevOpsJourney<br>
+Welcome to my corner of creativity! As a dedicated content creator, I'm on a mission to weave compelling narratives and bring ideas to life. While I'm busy polishing my skills in the realm of DevOps technologies, I'm also your go-to person for insights into the dynamic landscape of desktop applications. Let's chat about content, code, and everything in between! 📚🛠️ #ContentCrafting #DevOpsJourney<br>
 
 
 ## 🌐 Social Medias:
