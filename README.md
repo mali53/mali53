@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Hello!:
 🔭 I’m Currently Working On Content Creation<br>🌱 I’m Currently Learning DevOps Technologies<br>💬 Ask Me About Desktop Applications<br>
 
 
-## 🌐 Socials:
+## 🌐 Social Medias:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__m_a_l_i__03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindumalinga) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ravindumalingada) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_mali_3) 
 
 # 💻 Tech Stack:
